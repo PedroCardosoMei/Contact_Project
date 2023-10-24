@@ -10,17 +10,12 @@
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
 }
 
-.conteinerSub{ 
 
-    
-    display: inline;
-    
-    justify-content: center;
-    align-items: center;
-    margin-bottom: auto;
-}
 
 .inputs{
     display: flex;
     margin: auto;
+    justify-content: center;
+    text-align: center;
 }
+
