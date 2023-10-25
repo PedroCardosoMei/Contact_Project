@@ -1,8 +1,38 @@
-.login{
+.login {
     padding-bottom: 10px;
 }
 
-#op{
+.buttonSend {
+
+    width: 174px;
+    height: 40px;
+    background: #116DFF;
+    border: none;
+    color: aliceblue;
+    border-radius: 5px;
+    transition: 0.2s;
+}
+
+.buttonSend:hover{
+    background: #2166d5;
+}
+
+.buttonReplce{
+    width: 174px;
+    height: 40px;
+    background: #ff1818;
+    border: none;
+    color: aliceblue;
+    border-radius: 5px;
+    transition: 0.2s;
+}
+
+.buttonReplce:hover{
+    background: #bc1c1c;
+}
+
+
+#op {
     padding: 5px;
     justify-content: center;
 }

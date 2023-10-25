@@ -1,4 +1,4 @@
-.conteiner{
+.conteiner {
     border: 1px solid #ccc;
     width: 500px;
     height: 500px;
@@ -6,21 +6,20 @@
     justify-content: center;
     margin: auto;
     margin-top: 20px;
+    align-items: center;
     background: #ccc;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+    text-align: center;
 }
 
-.conteinerSub{ 
-
-    
+.conteinerSub {
     display: inline;
-    
     justify-content: center;
     align-items: center;
     margin-bottom: auto;
 }
 
-.inputs{
+.inputs {
     display: flex;
     margin: auto;
 }
