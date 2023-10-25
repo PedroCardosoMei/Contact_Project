@@ -1,10 +1,7 @@
 .login {
     padding-bottom: 10px;
-
 }
-
 .buttonSend {
-
     width: 174px;
     height: 40px;
     background: #116DFF;
@@ -17,7 +14,6 @@
 .buttonSend:hover{
     background: #2166d5;
 }
-
 .buttonReplce{
     width: 174px;
     height: 40px;
@@ -33,18 +29,3 @@
 }
 
 
-
-
-
-
-#op{
-    padding: 10px;
-    justify-content: center;
-    align-items: center;
-    align-self: center;
-    border: 1px solid black;
-    background: #fff;
-    margin-top: 5px;
-    border-radius: 5px;
-    
-}

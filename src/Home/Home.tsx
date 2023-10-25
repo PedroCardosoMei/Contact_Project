@@ -11,10 +11,10 @@ export const Home = () => {
     const [textNormal, setTextNormal] = useState<string>("Contato Normal");
     const [textBusiness, setTextBusiness] = useState<string>("Contato Empresarial");
 
-    // Use um estado para controlar qual texto está sendo exibido
+
     const [showingTextNormal, setShowingTextNormal] = useState(true);
 
-    // Função para alternar entre os textos
+   
     const toggleText = () => {
         setShowingTextNormal(!showingTextNormal);
     };
