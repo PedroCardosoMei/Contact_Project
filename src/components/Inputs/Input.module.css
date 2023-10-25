@@ -1,4 +1,7 @@
 .input{
     width: 200px;
     height: 25px;
+    border: none;
+    padding-left: 2px;
 }
+

@@ -12,6 +12,7 @@
     text-align: center;
 }
 
+
 .conteinerSub {
     display: inline;
     justify-content: center;
@@ -19,7 +20,11 @@
     margin-bottom: auto;
 }
 
+
 .inputs {
     display: flex;
     margin: auto;
+    justify-content: center;
+    text-align: center;
 }
+
