@@ -12,8 +12,6 @@ import {AiOutlineFieldNumber} from "react-icons/ai";
 export const Home = () => {
     const [textNormal, setTextNormal] = useState<string>("Contato Normal");
     const [textBusiness, setTextBusiness] = useState<string>("Contato Empresarial");
-
-
     const [showingTextNormal, setShowingTextNormal] = useState(true);
 
    
