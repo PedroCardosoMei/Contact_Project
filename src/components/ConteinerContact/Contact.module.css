@@ -2,7 +2,7 @@
     border: 1px solid #ccc;
     width: 500px;
     height: 500px;
-    display: flex;
+    display: block;
     justify-content: center;
     margin: auto;
     margin-top: 20px;

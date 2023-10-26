@@ -1,5 +1,7 @@
 .login {
     padding-bottom: 10px;
+    align-items: center;
+    margin-top: 10pc;
 }
 .buttonSend {
     width: 174px;
@@ -27,5 +29,36 @@
 .buttonReplce:hover{
     background: #bc1c1c;
 }
+.user{
+    background: #fff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-inline: 3px;
+    width: 220px;
+    margin: auto;
+    
+}
+
+
+.passWord{
+    background: #fff;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+    padding-inline: 3px;
+    width: 220px;
+    margin: auto;
+}
+
+
+
+#op{
+    margin-bottom: 8px; 
+}
+
+
 
 
